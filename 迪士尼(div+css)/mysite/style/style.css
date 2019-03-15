@@ -1,0 +1,268 @@
+/*
+* @Author: Marte
+* @Date:   2017-08-10 12:55:23
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-08-11 16:46:42
+*/
+#container{
+    width: 1200px;
+    min-height: 1000px;
+    margin: 0px auto;
+    padding: 0px;
+}
+#banner{
+    height: 100px;
+}
+#banner ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+#banner ul li{
+    width: 84px;
+    height: 32px;
+    float: left;
+    margin-top: 45px;
+    margin-left: 75px;
+}
+#banner ul li.one{
+    width: 217px;
+    height: 95px;
+    margin: 0px 0px 0px 45px;
+}
+#banner ul li.two{
+    margin-left: 45px;
+}
+#adv{
+    margin-top: 10px;
+}
+#star{
+    height: 155px;
+}
+#star h2{
+    margin-top: 10px;
+    padding: 0px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+#star ul{
+    margin-top: 10px;
+    padding: 0px;
+    height: 110px;
+    list-style: none;
+}
+#star ul li{
+    float: left;
+    width: 110px;
+    margin-left: 85px;
+}
+#star ul li dd{
+    width: 100px;
+    height: 20px;
+    margin-left: 25px;
+}
+#star ul li dd.only{
+    width: 130px;
+    margin-left: 0px;
+}
+#star ul li dd.spe{
+    margin-left: 12px;
+}
+#shop{
+    margin-top: 30px;
+    height: 640px;
+}
+#shop h2{
+    line-height: 30px;
+    text-align: center;
+    padding: 0px;
+    font-size: 14px;
+}
+#left{
+    width: 600px;
+    height: 600px;
+    float: left;
+}
+#right{
+    width: 600px;
+    height: 600px;
+    float: right;
+}
+#right ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+#right ul li{
+    float: left;
+    margin: 0px;
+}
+#right ul li dl{
+    width: 300px;
+    height: 300px;
+}
+#right ul li dd{
+    margin: 0px;
+    padding: 0px;
+    height: 60px;
+    text-align: center;
+}
+#news{
+    height: 820px;
+}
+#news h2{
+    line-height: 30px;
+    text-align: center;
+    padding: 0px;
+    font-size: 14px;
+}
+#up{
+    width: 1200px;
+    height: 475px;
+}
+#left-2{
+    width: 600px;
+    height: 475px;
+    float: left;
+}
+#right-2{
+    float: right;
+    width: 600px;
+    height: 475px;
+}
+#right-2 ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+#right-2 ul li{
+    float: left;
+    margin: 0px;
+}
+#right-2 ul li dl{
+    width: 300px;
+    height: 475px;
+}
+#right-2 ul li dd{
+    font-size: 14px;
+    height: 89px;
+    text-align: center;
+    margin: 0px;
+    font-weight: bold;
+    line-height: 89px;
+}
+#right-2 ul li dd.dif{
+    margin: 0px 50px 0px 50px;
+    font-size: 12px;
+    text-indent: 25px;
+    line-height: 20px;
+    text-align: left;
+    font-weight: normal;
+}
+#down{
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+}
+#left-3{
+    width: 600px;
+    height: 300px;
+    float: left;
+}
+#left-3 dl{
+    margin: 0px;
+    padding: 0px;
+}
+#left-3 dl dd{
+    height: 150px;
+    line-height: 150px;
+    font-size: 18px;
+    margin-left: 100px;
+}
+#left-3 dl dd.not{
+    width: 360px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 20px;
+}
+#right-3{
+    width: 600px;
+    height: 300px;
+    float: right;
+}
+#right-3 dl{
+    margin: 0px;
+    padding: 0px;
+    width: 600px;
+    height: 300px;
+}
+#right-3 dl dt{
+    float: left;
+    width: 300px;
+    height: 296px;
+}
+#right-3 dl dd{
+    float: right;
+    height: 150px;
+    width: 210px;
+    margin: 10px 80px 0px 10px;
+    padding: 0px;
+    font-size: 12px;
+    text-indent: 25px;
+}
+#right-3 dl dd.act{
+    font-size: 16px;
+    text-indent: 0px;
+    height: 50px;
+    width: 220px;
+    font-weight: bold;
+    margin: 80px 80px 0px 0px;
+}
+#links{
+    height: 180px;
+    margin-top: 20px;
+}
+#links ul.img{
+    list-style: none;
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+}
+#links ul.img li{
+    float: left;
+    width: 125px;
+    height: 80px;
+    line-height: 80px;
+    margin: 10px 0px 0px 400px;
+}
+#links ul.img li.type{
+    margin: 15px 0px 0px 25px;
+}
+#links ul.img li.type2{
+    margin: 15px 400px 0px 0px;
+}
+#links ul.txt{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    height: 25px;
+}
+#links ul.txt li{
+    float: left;
+    margin-left: 55px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#links ul.txt li:first-child{
+    margin-left: 325px;
+}
+#links p{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    height: 35px;
+    line-height: 35px;
+    padding: 0px;
+}
